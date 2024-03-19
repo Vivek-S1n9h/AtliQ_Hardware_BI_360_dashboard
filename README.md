@@ -18,4 +18,4 @@ The project will leverage a combination of technologies and tools:
 
 ### Resources
 - [Codebasics Power BI Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) - Providing foundational knowledge for the project.
-- [Live Report Link]() - Access the live Power BI report.
+- [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDk3YTlhNWItYTY0MC00NWI0LWFhODktZDA4NzhhYzE0MmE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection03c354455aa706134252) - Access the live Power BI report.
