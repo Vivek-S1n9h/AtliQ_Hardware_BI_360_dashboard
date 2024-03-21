@@ -19,3 +19,28 @@ The project will leverage a combination of technologies and tools:
 ### Resources
 - [Codebasics Power BI Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) - Providing foundational knowledge for the project.
 - [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDk3YTlhNWItYTY0MC00NWI0LWFhODktZDA4NzhhYzE0MmE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection03c354455aa706134252) - Access the live Power BI report.
+- [Presentation]() - working on this
+- [Article]() - working on this
+
+### Dashboards:
+
+### Home or Landing page view:
+![Finance View](dashboard_images/buisness_360_page-0001.jpg)
+
+### Finance View:
+![alt text](dashboard_images/buisness_360_page-0002.jpg)
+ 
+### Sales View:
+![alt text](dashboard_images/buisness_360_page-0003.jpg)
+ 
+###  Marketing View:
+![alt text](dashboard_images/buisness_360_page-0004.jpg)
+ 
+### Supply Chain View:
+![alt text](dashboard_images/buisness_360_page-0005.jpg)
+
+### Executive View:
+![alt text](dashboard_images/buisness_360_page-0006.jpg)
+
+### Product View:
+![alt text](dashboard_images/buisness_360_page-0007.jpg)
