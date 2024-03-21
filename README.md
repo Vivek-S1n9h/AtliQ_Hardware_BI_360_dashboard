@@ -5,10 +5,10 @@
 Welcome to the AtliQ Hardware BI 360 Dashboard project! 
 
 ### Introduction
-AtliQ Hardware is an ambitious company striving for excellence in the hardware industry. This project marks the initiation of our journey into implementing advanced data analytics using Power BI. Our objective is to harness the power of data to drive informed decision-making across key business functions, including finance, sales, marketing, and supply chain management.
+AtliQ Hardware is an ambitious company striving for excellence in the hardware industry. This project marks the initiation of my journey into implementing advanced data analytics using Power BI. The objective is to harness the power of data to drive informed decision-making across key business functions, including finance, sales, marketing, and supply chain management.
 
 ### Objective
-The primary goal of this project is to establish a robust data analytics framework using Power BI. By doing so, we aim to empower stakeholders with comprehensive insights, enabling them to make strategic decisions that positively impact our business outcomes.
+The primary goal of this project is to establish a robust data analytics framework using Power BI. By doing so, the aim is to empower stakeholders with comprehensive insights, enabling them to make strategic decisions that positively impact our business outcomes.
 
 ### Tools Utilized
 To achieve our objectives, we have employed a range of tools and technologies:
@@ -20,7 +20,7 @@ To achieve our objectives, we have employed a range of tools and technologies:
 - **DAX Studio**: Facilitates the optimization of Power BI report performance.
 
 ### Project Methodology
-We adopted an Agile methodology for this project, allowing us to iteratively develop and refine the Power BI dashboards based on stakeholder feedback.
+An Agile methodology for this project, allowing us to iteratively develop and refine the Power BI dashboards based on stakeholder feedback.
 
 **Example:**
 Questions > Mockup/sketch/plan > Prototype > Publish > Feedback > Questions 
@@ -35,7 +35,7 @@ Questions > Mockup/sketch/plan > Prototype > Publish > Feedback > Questions
 
 ### Dashboards:
 
-Our project caters to various stakeholder needs and preferences, offering insightful dashboards across key business areas: 
+This project caters to various stakeholder needs and preferences, offering insightful dashboards across key business areas: 
 
 ### Home or Landing page view:
 ![Home Page View](dashboard_images/buisness_360_page-0001.jpg)
@@ -59,8 +59,8 @@ Our project caters to various stakeholder needs and preferences, offering insigh
 ![Product View](dashboard_images/buisness_360_page-0007.jpg)
 
 
-These dashboards encapsulate crucial metrics and KPIs tailored to each business function, providing a holistic view of our operations and performance.
+These dashboards encapsulate crucial metrics and KPIs tailored to each business function, providing a holistic view of operations and performance of AtliQ hardware.
 
 Explore the full Dashboard here:  [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDk3YTlhNWItYTY0MC00NWI0LWFhODktZDA4NzhhYzE0MmE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection03c354455aa706134252)
 
-Thank you for exploring the AtliQ Hardware BI 360 Dashboard project! We are excited about the possibilities this initiative brings to our organization and look forward to leveraging data-driven insights for future success.
+Thank you for exploring the AtliQ Hardware BI 360 Dashboard project! 
