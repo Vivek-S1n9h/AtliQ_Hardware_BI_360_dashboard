@@ -1,5 +1,7 @@
 # AtliQ Hardware BI 360 Dashboard
 
+![Atliq_hardware_logo](https://github.com/Vivek-S1n9h/AtliQ_Hardware_BI_360_dashboard/assets/121023465/2f67d09f-3396-41e9-9ffd-21bcecd1d800)
+
 ## Project Overview
 
 Welcome to the AtliQ Hardware BI 360 Dashboard project! 
